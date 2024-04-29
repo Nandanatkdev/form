@@ -1,0 +1,101 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.left-head{
+    color: white;
+   font-size:56px ;
+   margin-top: -620px;
+  margin-left: 70px ;
+  width: 500px;
+}
+.left-para{
+    color: white;
+     font-size: 16px;
+     line-height: 25px;
+     font-size:21px ;
+     margin-left: 71px;
+     margin-top: -30px;
+      width: 550px;
+}
+
+.free-trial{
+    margin-left: 650px;
+    margin-top: -350px;
+    button{
+        color: white; 
+        height: 50px;
+        width: 420px;
+        background-color: rgb(104, 104, 201);
+        border-color:  rgb(104, 104, 201);
+       border-left:  rgb(104, 104, 201);
+       margin-left: 20px;
+       border-right:  rgb(104, 104, 201);
+       border-bottom:  rgb(104, 104, 201);
+       border-radius: 5px;
+
+    }
+}
+
+.content-box{
+    height: 500px;
+    width: 400px;
+}
+.area{
+    display: flex;
+    flex-direction: column;
+    margin-left: 650px;
+    height: 100px;
+    width: 200px;
+    margin-top: -350px;
+    border-color: grey;
+}
+.one{
+    margin-top: -100px;
+    height: 40px;
+    width: 350px;
+    margin-left: 40px;
+    font-size: 10px;
+ 
+}
+.two{
+    margin-top: 10px;
+    height: 40px;
+    width: 350px;
+    margin-left: 40px;
+    font-size: 10px;
+}
+.three{
+    height: 40px;
+    width: 350px;
+    margin-left: 40px;
+    font-size: 10px;
+    margin-top: 10px;
+    
+}
+.four{
+    height: 40px;
+    width: 350px;
+    margin-left: 40px;
+    font-size: 10px;
+    margin-top: 10px;
+}
+.claim{
+    margin-left: 40px;
+    margin-top: 10px;
+    
+    button{
+       background-color:  hsl(154, 59%, 51%);
+       border-left:hsl(154, 59%, 51%);
+       border-right: hsl(154, 59%, 51%);
+       border-top: hsl(154, 59%, 51%);
+       border-bottom: hsl(154, 59%, 51%);
+       height: 40px;
+       width: 350px;
+       color: white;
+    }
+    p{
+        color: grey;
+        width: 500px;
+    }
+}
